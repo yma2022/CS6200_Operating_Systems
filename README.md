@@ -15,6 +15,6 @@ Building upon the foundation laid in Project 1, I completed the augmentation of 
 
 ### gRPC and Distributed File System
 
-For this project, I successfully designed and implemented a straightforward distributed file system (DFS). The initial phase involved developing file transfer protocols using gRPC and Protocol Buffers. Subsequently, a weakly consistent synchronization system was incorporated to manage cache consistency between multiple clients and a single server. The system demonstrated capability in handling both binary and text-based files.
+[For this project](https://yma2022.github.io/projects/3_project/), I successfully designed and implemented a straightforward distributed file system (DFS). The initial phase involved developing file transfer protocols using gRPC and Protocol Buffers. Subsequently, a weakly consistent synchronization system was incorporated to manage cache consistency between multiple clients and a single server. The system demonstrated capability in handling both binary and text-based files.
 
 The source code for these tasks was executed using a combination of C++14, gRPC, and Protocol Buffers, resulting in a comprehensive implementation.
