@@ -1,0 +1,9 @@
+[submodule "multithreading"]
+	path = multithreading
+	url = git@github.com:yma2022/CS6200_pr1.git
+[submodule "ipc"]
+	path = ipc
+	url = git@github.com:yma2022/CS6200_pr3.git
+[submodule "dfs"]
+	path = dfs
+	url = git@github.com:yma2022/CS6200_pr4.git
